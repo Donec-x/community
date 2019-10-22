@@ -140,5 +140,11 @@ mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
 ##方法
 
 pull：git pull origin master --allow-unrelated-histories
+
 设置远程源仓库：git remote add origin https://github.com/Donec-x/community.git
+
+##快捷键
+
+Ctrl+Alt+v 自动创建变量
+
 
