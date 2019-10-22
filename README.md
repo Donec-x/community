@@ -1,4 +1,4 @@
-##Srping Boot学习
+## Srping Boot学习
 
 ## 快速运行
 1. 安装必备工具  
@@ -64,22 +64,21 @@ CREATE TABLE USER
 mvn flyway:migrate
 mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
 ```
-##方法
+## 方法
 
+```
 pull：git pull origin master --allow-unrelated-histories
-
 设置远程源仓库：git remote add origin https://github.com/Donec-x/community.git
+```
 
-##快捷键
+## 快捷键
 
+```
 Ctrl+Alt+v 提取变量
-
 Ctrl+Shift+Alt+N 查找类中的方法或变量
-
 Ctrl+Alt+T  生成try catch  或者 Alt+enter 
-
 Alt+Insert 生成代码(如get,set方法,构造函数等)   或者右键（Generate）
-
 CTRL+P   方法参数提示  
+```
 
 
