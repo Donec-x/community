@@ -145,6 +145,14 @@ pull：git pull origin master --allow-unrelated-histories
 
 ##快捷键
 
-Ctrl+Alt+v 自动创建变量
+Ctrl+Alt+v 提取变量
+
+Ctrl+Shift+Alt+N 查找类中的方法或变量
+
+Ctrl+Alt+T  生成try catch  或者 Alt+enter 
+
+Alt+Insert 生成代码(如get,set方法,构造函数等)   或者右键（Generate）
+
+CTRL+P   方法参数提示  
 
 
