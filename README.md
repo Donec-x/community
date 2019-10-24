@@ -82,6 +82,14 @@ Ctrl+Shift+Alt+N 查找类中的方法或变量
 Ctrl+Alt+T  生成try catch  或者 Alt+enter 
 Alt+Insert 生成代码(如get,set方法,构造函数等)   或者右键（Generate）
 CTRL+P   方法参数提示  
+Shift +F6 修改变量名
+```
+
+## UML
+```
+    实箭泛化虚实现
+    虚线依赖实关联
+    空菱聚合实组合
 ```
 
 
